@@ -24,7 +24,7 @@
 💰 Payment Gateway: Razorpay
 
 ---
-
+```
 ## 📂 Project Structure
 
 E-Commerce/
@@ -89,7 +89,7 @@ E-Commerce/
 │
 ├── README.md
 └── .gitignore
-
+```
 ---
 
 ## ⚙️ Installation & Setup
